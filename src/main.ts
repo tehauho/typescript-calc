@@ -25,3 +25,7 @@ function func(age: number, name: string) {
 }
 
 func(30, "Sao");
+
+function func2() {
+  console.log("another function");
+}
